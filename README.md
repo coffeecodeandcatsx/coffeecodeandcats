@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coffecodeandcats
-- 👀 I’m interested in python, data science, java, coffee & cats
-- 🌱 I’m currently learning pascal, python, java
+- 👀 I’m interested in python, data science, ux/ui design, coffee & cats
+- 🌱 I’m currently learning css, python, java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
